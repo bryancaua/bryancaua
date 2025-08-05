@@ -37,7 +37,8 @@ Gosto de aprender na prática e de transformar ideias em projetos que funcionam 
 
 📫 Me chama pra trocar ideia ou ver meus projetos:
 [🔗 LinkedIn]([https://www.linkedin.com/in/bryancaua](https://www.linkedin.com/in/bryan-cau%C3%A3-arruda-santos-3aa5772ba/))  
-[📬 Email](mailto:bryanncaua@gmail.com)
+**Email**: [bryanncaua@gmail.com](mailto:bryanncaua@gmail.com)
+
 
 ---
 
