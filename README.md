@@ -48,20 +48,20 @@
 
 ---
 
-
+### 📊 GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryan-caua&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-caua&layout=compact&theme=radical)
 
 ---
 
-
+### 🐍 Snake Animation (contribuições)
 
 ![snake gif](https://github.com/bryan-caua/bryan-caua/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-
+### 👁️ Visualizações de perfil
 
 ![Profile views](https://komarev.com/ghpvc/?username=bryan-caua&color=blue)
 
