@@ -42,7 +42,7 @@ Gosto de aprender na prática e de transformar ideias em projetos que funcionam 
 - Consolidar o uso de **React e JavaScript** em projetos mais avançados  
 - Aprender **TypeScript** do jeito certo  
 - Aprofundar em **APIs**, **testes automatizados** e boas práticas de back-end com Node.js  
-- Evoluir em **Soft Skills**, Git e trabalho em equipe pra estar 100% pronto pro mercado
+- Evoluir em **Soft Skills**, Git e trabalho em equipe pra estar ainda mais pronto pro mercado
 
 ---
 
