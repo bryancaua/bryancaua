@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello world! Eu sou o Bryan Santos</h1>
+<h1 align="center">👋 Hello world, Prazer! Bryan Santos</h1>
 
 <p align="center">
 💻 Desenvolvedor em construção (Full Stack em progresso!) <br>
