@@ -58,8 +58,7 @@ Gosto de aprender na prática e de transformar ideias em projetos que funcionam 
 
 ### 📊 GitHub Insights
 
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryancaua&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancaua&layout=compact&theme=default)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=bryancaua&repo=bryancaua%2FSay-no-More-Do&show_owner=true&theme=ambient_gradient)](https://github.com/bryancaua/Say-no-More-Do)
 
 ---
 
