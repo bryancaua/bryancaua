@@ -50,5 +50,5 @@ Atuo no desenvolvimento de aplicações web completas, unindo interfaces em Reac
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bryan-cau%C3%A3-arruda-santos-3aa5772ba/](https://www.linkedin.com/in/bryancaua/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bryancaua/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanncaua@gmail.com)
