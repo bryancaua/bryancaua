@@ -2,7 +2,7 @@
 
 <p align="center">
 Full Stack Developer<br>
-Foco em construir produtos funcionais do front ao back, com atenção a boas práticas e código limpo.
+Foco em construir produtos funcionais do front ao back, com atenção a arquitetura e código escalável.
 </p>
 
 ---
